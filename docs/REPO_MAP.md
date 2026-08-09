@@ -78,6 +78,8 @@ Output directory: project root or static output folder
 
 Use Shopify as the commerce source of truth. GLEAS.xyz may either live fully on Shopify or use a custom front end that links to Shopify checkout.
 
+**Merch funnel:** Cookie Monkey is the first hybrid embroidery + DTG apparel drop; GLEAS mark tees sit alongside. Operating playbook: [`docs/merch-hybrid-shirts.md`](merch-hybrid-shirts.md).
+
 ## Rules
 
 1. One serious brand per repo.
